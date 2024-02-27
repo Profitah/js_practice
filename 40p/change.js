@@ -6,6 +6,7 @@ let heading = document.querySelector('#heading'); //id가 heading인 요소를 �
         heading.style.color = "blue";
     }
 
+//heading을 한번 클릭하면 함수 Changecolor 동작
 heading.onclick = Changecolor;
 
     
